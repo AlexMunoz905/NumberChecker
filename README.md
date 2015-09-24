@@ -1,2 +1,2 @@
 # JavaScript
-A repo for testing JavaScript
+This is a repo for testing JavaScript.
