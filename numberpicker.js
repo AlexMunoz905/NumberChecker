@@ -6,9 +6,9 @@ function myFunction() {
 
     // If x is Not a Number or less than one or greater than 10
     if (isNaN(x) || x < 1 || x > 50) {
-        text = "Please enter a number from 1 to 50!!!";
+      alert("Pick a number from 1-50!!!");
     } else {
-        text = "Thanks for doing it correctly";
+        alert("Correct!");
     }
-    document.getElementById("demo").innerHTML = text;
+    document.getElementById("demo");
 }
